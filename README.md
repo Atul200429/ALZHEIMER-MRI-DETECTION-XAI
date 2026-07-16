@@ -196,8 +196,6 @@ ways:
 ## Collaborators
 
 - [Atul Krishna](https://github.com/Atul200429)
-- Anish Tiwari
-- Alok Kumar Mavi
 
 ## License
 
